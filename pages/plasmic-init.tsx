@@ -1,5 +1,6 @@
 import { initPlasmicLoader } from "@plasmicapp/loader-nextjs";
 export const PLASMIC = initPlasmicLoader({
+  host:"https://lab.impulsumgpt.com",
   projects: [
     {
       id: "nXve4wYifXcofuHGMpuNw8",  // ID of a project you are using
